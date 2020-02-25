@@ -1,7 +1,7 @@
 # Learning UI Design Fundamentals 
 From: [scrimba](https://scrimba.com/g/gdesign)
 
-###Topics
+### Topics
 * White Space
 * Contrast
 * Scale
